@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "formulahendry.code-runner",
+    "streetsidesoftware.code-spell-checker",
+    "adpyke.codesnap",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mkxml.vscode-filesize",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "kisstkondoros.vscode-gutter-preview",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "xabikos.javascriptsnippets",
+    "ritwickdey.liveserver",
+    "davidanson.vscode-markdownlint",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "humao.rest-client",
+    "stylelint.vscode-stylelint",
+    "simonsiefke.svg-preview",
+    "vscode-icons-team.vscode-icons",
+    "hollowtree.vue-snippets",
+    "vue.volar",
+    "sdras.vue-vscode-snippets"
+  ]
+}
