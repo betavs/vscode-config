@@ -6,6 +6,7 @@
   "workbench.startupEditor": "none",
   "workbench.editor.empty.hint": "hidden",
   "workbench.activityBar.location": "hidden",
+  "workbench.sideBar.location": "right",
   "workbench.layoutControl.enabled": false,
   "files.eol": "\n",
   "editor.tabSize": 4,
@@ -15,6 +16,7 @@
   "editor.linkedEditing": true,
   "editor.matchBrackets": "never",
   "editor.minimap.enabled": false,
+  "editor.guides.bracketPairs": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
     "source.fixAll": "explicit",
